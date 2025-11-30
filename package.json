@@ -6,9 +6,6 @@
   "bin": {
     "brume": "bin/brume.js"
   },
-  "dependencies": {
-    "request": "^2.65.0"
-  },
   "author": "Delapouite <delapouite@gmail.com> (http://delapouite.com)",
   "license": "MIT"
 }
